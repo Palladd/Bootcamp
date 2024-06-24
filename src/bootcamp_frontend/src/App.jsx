@@ -10,6 +10,7 @@ function App() {
       setGreeting(greeting);
     });
     return false;
+    
   }
 
   return (
